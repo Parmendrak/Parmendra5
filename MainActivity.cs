@@ -25,6 +25,7 @@ namespace Android222fdsfd
 			// and attach an event to it
 
 			Console.WriteLine ("Welcome");
+			Console.WriteLine ("Welcome2");
 
 			Button button = FindViewById<Button> (Resource.Id.myButton);
 			
