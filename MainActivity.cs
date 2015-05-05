@@ -23,6 +23,9 @@ namespace Android222fdsfd
 
 			// Get our button from the layout resource,
 			// and attach an event to it
+
+			Console.WriteLine ("Welcome");
+
 			Button button = FindViewById<Button> (Resource.Id.myButton);
 			
 			button.Click += delegate {
