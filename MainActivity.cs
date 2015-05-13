@@ -26,6 +26,7 @@ namespace Android222fdsfd
 
 			Console.WriteLine ("Choudhary");
 			Console.WriteLine ("Parmendra");
+			Console.WriteLine ("Parmendra");
 
 			Button button = FindViewById<Button> (Resource.Id.myButton);
 			
