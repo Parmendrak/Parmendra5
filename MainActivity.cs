@@ -24,9 +24,9 @@ namespace Android222fdsfd
 			// Get our button from the layout resource,
 			// and attach an event to it
 
+			Console.WriteLine ("Parmendra");
 			Console.WriteLine ("Choudhary");
 
-			Console.WriteLine ("Parmendra");
 
 
 
