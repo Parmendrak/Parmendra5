@@ -25,8 +25,7 @@ namespace Android222fdsfd
 			// and attach an event to it
 
 			Console.WriteLine ("Parmendra");
-			Console.WriteLine ("Choudhary");
-			Console.WriteLine ("Parmendra");
+
 			Console.WriteLine ("Parmendra");
 
 
